@@ -5,4 +5,7 @@ def isIso(a,b):
         y=[b.count(char1) for char1 in b]
         return x==y                   
 string1,string2 = input().split()
-print(isIso(string1,string2))
+if(isIso(string1,string2)==True):
+        print("yes")
+else:
+        print("no")
