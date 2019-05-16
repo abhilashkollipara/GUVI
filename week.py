@@ -6,7 +6,7 @@ n=len(day)
 for i in range(n):
 
     if day[i] in lis1:
-        print("No")
+        print("no")
     
     elif day[i] in lis2:
-         print("Yes")
+         print("yes")
