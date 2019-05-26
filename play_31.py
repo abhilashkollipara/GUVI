@@ -1,5 +1,5 @@
 n=input()
-for i in K:
+for i in n:
 	A=n.count('(')
 	B=n.count(')')
 if A==B:
