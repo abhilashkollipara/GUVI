@@ -1,2 +1,2 @@
 # GUVI
-programming assignments for GUVI
+programming assignments for GUVI.
