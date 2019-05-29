@@ -1,5 +1,5 @@
+n=int(input())
 arr=list(input().split())        
-n = len(arr)
 arr.sort()
 i=0
 j=n-1
