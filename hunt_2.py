@@ -1,4 +1,4 @@
 val=int(input())
-arr=input().split()
-arr.sort()
-print(''.join(arr[::-1]))
+ar=input().split()
+ar.sort()
+print(''.join(ar[::-1]))
