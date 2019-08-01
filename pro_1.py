@@ -13,7 +13,7 @@ i = 0
 while(i <= n1 - 1 and j <= n2 - 1): 
         if (t1[i]!=t2[j]): 
             break
-        result += (t1[i]) 
+        res += (t1[i]) 
         i += 1
         j += 1
-print(result)
+print(res)
